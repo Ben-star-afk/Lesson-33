@@ -1,0 +1,10 @@
+#about{
+    background: #313552;
+    border-radius: 0.5rem;    
+}
+img{
+    width:200px;
+}
+.card{
+    border-bottom: 8px solid #f5ba09;
+}
